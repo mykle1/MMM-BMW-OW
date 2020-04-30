@@ -24,10 +24,6 @@
 
 ![](images/2.png)
 
-* Default white with different icons
-
-![](images/3.png)
-
 ## Installation and requirements
 
 * `git clone https://github.com/mykle1/MMM-BMW-OW` into the `~/MagicMirror/modules` directory.
