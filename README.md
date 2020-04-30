@@ -20,6 +20,13 @@
 
 ![](images/1.png)
 
+* Default white with OpenWeather icons
+
+![](images/2.png)
+
+* Default white with different icons
+
+![](images/3.png)
 
 ## Installation and requirements
 

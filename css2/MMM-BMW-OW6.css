@@ -1,0 +1,29 @@
+/* Copy and paste any or all of these css entries into your custom.css file inside your
+ * css folder. The functions are annotated to make things as easy as possible for you.
+ * Use any colors you want! Go to - "http://htmlcolorcodes.com/color-picker/"
+ * Pick your color, copy and paste the HEX number. Example - #62FF00 = bright green.
+ */
+
+@import url('https://fonts.googleapis.com/css?family=Englebert');
+
+.MMM-BMW-OW .header {
+  color: yellow;               /* Header color. */
+}
+.MMM-BMW-OW .image {              /* icon size */
+   width: 3.75%;
+   height: 3.75%;
+   margin-top: 0px;
+   margin-bottom: -30px;
+}
+
+.MMM-BMW-OW .current {
+  color: #FFFFFF;               /* text forecast color. Default is white. */
+  font-family: Englebert;
+/*  font-size: .6em; */
+}
+
+.MMM-BMW-OW .daily {
+  color: #FFFFFF;               /* days of the week color. Default is white. */
+  font-family: Englebert;
+/*  font-size: .6em; */
+}
