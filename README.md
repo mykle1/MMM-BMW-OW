@@ -1,4 +1,4 @@
-## MMM-BMW-CC
+## MMM-BMW-OW
 
 **Bugger My Weather**  Now using the free OpenWeather api
 
