@@ -40,7 +40,7 @@
     module: "MMM-BMW-OW",
     position: "bottom_bar", // designed for bottom_bar(best) thirds should be good too
     config: {
-        apiKey: "Your FREE api key", // Get at https://openweathermap.org/price
+        api: "Your FREE api key", // Get at https://openweathermap.org/price
         ownTitle: "Current Conditions",
         lat: '43.574794', // Your latitude
         lon: '-77.112454', // Your longitude
