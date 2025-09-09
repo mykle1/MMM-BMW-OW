@@ -4,27 +4,32 @@
  * Pick your color, copy and paste the HEX number. Example - #62FF00 = bright green.
  */
 
- @import url('https://fonts.googleapis.com/css?family=Muli:600');
+@import url('https://fonts.googleapis.com/css?family=Muli:600');
 
 .MMM-BMW-OW .header {
-  color: yellow;               /* Header color. */
+	color: yellow; /* Header color. */
 }
 
-.MMM-BMW-OW .image {              /* icon size */
-   width: 3.75%;
-   height: 3.75%;
-   margin-top: 0px;
-   margin-bottom: -30px;
+.MMM-BMW-OW .image {
+	/* icon size */
+	width: 3.75%;
+	height: 3.75%;
 }
 
 .MMM-BMW-OW .current {
-  color: #FFFFFF;               /* Current text forecast color. Default is white. */
-  font-family: Muli;
-/*  font-size: .6em; */
+	color: #ffffff; /* Current text forecast color. Default is white. */
+	font-family: Muli;
+	/*  font-size: .6em; */
+	display: flex; /*Center and align contect to fit on various displays*/
+	justify-content: center;
+	align-items: center;
 }
 
 .MMM-BMW-OW .daily {
-  color: #FFFFFF;               /* Days of the week and hi/lo temp color. Default is white. */
-  font-family: Muli;
-/*  font-size: .6em; */
+	color: #ffffff; /* Days of the week and hi/lo temp color. Default is white. */
+	font-family: Muli;
+	/*  font-size: .6em; */
+	display: flex; /*Center and align contect to fit on various displays*/
+	justify-content: center;
+	align-items: center;
 }

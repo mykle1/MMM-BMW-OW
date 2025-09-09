@@ -9,23 +9,28 @@
 @import url('https://fonts.googleapis.com/css?family=Modern+Antiqua');
 
 .MMM-BMW-OW .header {
-  color: yellow;               /* Header color. */
+	color: yellow; /* Header color. */
 }
-.MMM-BMW-OW .image {              /* icon size */
-   width: 3.75%;
-   height: 3.75%;
-   margin-top: 0px;
-   margin-bottom: -30px;
+.MMM-BMW-OW .image {
+	/* icon size */
+	width: 3.75%;
+	height: 3.75%;
 }
 
 .MMM-BMW-OW .current {
-  color: #FFFFFF;               /* text forecast color. Default is white. */
-  font-family: Modern Antiqua, cursive;
-/*  font-size: .6em; */
+	color: #ffffff; /* text forecast color. Default is white. */
+	font-family: Modern Antiqua, cursive;
+	/*  font-size: .6em; */
+	display: flex; /*Center and align contect to fit on various displays*/
+	justify-content: center;
+	align-items: center;
 }
 
 .MMM-BMW-OW .daily {
-  color: #FFFFFF;               /* days of the week color. Default is white. */
-  font-family: Modern Antiqua, cursive;
-/*  font-size: .6em; */
+	color: #ffffff; /* days of the week color. Default is white. */
+	font-family: Modern Antiqua, cursive;
+	/*  font-size: .6em; */
+	display: flex; /*Center and align contect to fit on various displays*/
+	justify-content: center;
+	align-items: center;
 }
